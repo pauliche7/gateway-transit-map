@@ -1,0 +1,6 @@
+/index.html
+GTFS_ZIP_URL = "https://www.leegov.com/leetran/Documents/GTFS.zip"
+/fetch_rt.py (opcional)
+/requirements.txt
+/data/
+/.github/workflows/build.yml
